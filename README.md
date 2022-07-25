@@ -1,4 +1,4 @@
-[migraine-image]: http://blog-imgs-53.fc2.com/d/o/g/dogloverxkksk/bn5.png
+[migraine-image]: https://user-images.githubusercontent.com/51936633/180691984-88ef6eab-51d6-4a51-b0e4-ace7dc3b2bb8.png
 [migraine-url]: http://dogloverxkksk.blog.fc2.com
 [![migraine-image]][migraine-url]
 
